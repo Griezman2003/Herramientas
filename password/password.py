@@ -12,7 +12,7 @@ from tkinter import simpledialog, messagebox
 
 init(autoreset=True)
 
-BASE_DIR = r"C:\Users\chapa\OneDrive\Documentos\Herramientas\password"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FILE_PATH = os.path.join(BASE_DIR, "passwords.enc")
 EXPORT_PATH = os.path.join(BASE_DIR, "passwords_export.json")
 SALT_PATH = os.path.join(BASE_DIR, "salt.bin")

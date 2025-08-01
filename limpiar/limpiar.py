@@ -13,7 +13,8 @@ TEMP_EXTENSIONS = ['.tmp', '.log', '.cache', '.bak']
 MAX_SIZE_MB = 100
 DAYS_OLD = 30
 
-LOG_DIR = r"C:\Users\chapa\OneDrive\Documentos\Herramientas\limpiar\reporte"
+base_dir = os.path.dirname(os.path.abspath(__file__))
+LOG_DIR = os.path.join(base_dir, "reporte")
 os.makedirs(LOG_DIR, exist_ok=True)
 LOG_FILE = os.path.join(LOG_DIR, "limpieza_log.txt")
 
