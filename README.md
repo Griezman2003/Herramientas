@@ -42,7 +42,7 @@ Herramientas/
 | Comando   | Descripción                                |
 |-----------|--------------------------------------------|
 | `clima`   | Muestra el clima actual en tu ciudad       |
-| `musica`  | Abre el reproductor de música              |
+| `musica`  | Abre el reproductor de música y descarga              |
 | `limpiar` | Limpia archivos temporales o basura del sistema |
 | `monitor` | Abre un dashboard de tu minitor              |
 | `p`  | Abre un guardado de contraseñas               |
