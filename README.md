@@ -31,4 +31,4 @@ Herramientas/
 
 ## Ejecuta el instalador
 
-1. setup.bat
+2. setup.bat
