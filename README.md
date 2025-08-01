@@ -32,3 +32,9 @@ Herramientas/
 ## Ejecuta el instalador
 
 2. setup.bat
+
+## Comando disponibles desde cualquier parte de tu terminal
+
+**clima:	Muestra el clima actual**
+**musica	Abre el reproductor de música**
+**limpiar	Limpia archivos temporales o basura**
