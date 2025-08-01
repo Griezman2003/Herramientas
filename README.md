@@ -33,8 +33,10 @@ Herramientas/
 
 2. setup.bat
 
-## Comando disponibles desde cualquier parte de tu terminal
+## ✅ Comandos disponibles desde cualquier parte de tu terminal
 
-**clima:	Muestra el clima actual**
-**musica	Abre el reproductor de música**
-**limpiar	Limpia archivos temporales o basura**
+| Comando   | Descripción                                |
+|-----------|--------------------------------------------|
+| `clima`   | Muestra el clima actual en tu ciudad       |
+| `musica`  | Abre el reproductor de música              |
+| `limpiar` | Limpia archivos temporales o basura del sistema |
