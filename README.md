@@ -61,6 +61,5 @@ Herramientas/
 | Comando   | Descripción                                |
 |-----------|--------------------------------------------|
 | `status`   | Realiza un status de tus cambios en tu proyecto       |
-| `pull`  | Baja los ccambios pendientes en tu repositorio              |
-| `push`  | Sube los ccambios pendientes en tu repositorio              |
-| `pull`  | Baja los ccambios pendientes en tu repositorio              |
+| `pull`  | Baja los cambios pendientes en tu repositorio              |
+| `push`  | Sube los cambios pendientes en tu repositorio              |
