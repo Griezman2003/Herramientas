@@ -18,10 +18,29 @@ def format_date(date_iso):
     dt = datetime.fromisoformat(date_iso)
     return dt.strftime('%a, %d %b')
 
+def get_location_by_ip():
+    try:
+        response = requests.get("http://ip-api.com/json/", timeout=5)
+        data = response.json()
+        if data.get("status") != "success":
+            print(f"⚠️ No se pudo obtener la ubicación: {data.get('message')}")
+            return None
+
+        return {
+            "lat": data["lat"],
+            "lon": data["lon"],
+            "city": f"{data['city']}, {data['regionName']}"
+        }
+
+    except Exception as e:
+        print("⚠️ Error al obtener ubicación automáticamente:", e)
+        return None
+
 def main():
-    lat = 18.3132
-    lon = -91.0637
-    city_name = "Candelaria, Campeche"
+    location = get_location_by_ip()
+    lat = location["lat"]
+    lon = location["lon"]
+    city_name = location["city"]
 
     url = (
         f"https://api.open-meteo.com/v1/forecast?"
