@@ -2,7 +2,7 @@
 chcp 65001 >nul
 setlocal enabledelayedexpansion
 
-set DESTINO=C:\Users\chapa\Music
+set "DESTINO=%USERPROFILE%\Music"
 
 if not exist "%DESTINO%" mkdir "%DESTINO%"
 
@@ -77,7 +77,7 @@ goto MENU
 :BIBLIOTECA
 cls
 echo Lanzando reproductor interactivo...
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0select-mp3.ps1"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0..\musica\select-mp3.ps1"
 goto MENU
 
 :FIN

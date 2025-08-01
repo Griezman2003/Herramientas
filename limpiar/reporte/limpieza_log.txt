@@ -68,3 +68,31 @@
 [2025-08-01 00:31:09] Error eliminando carpeta C:\Users\chapa\AppData\Local\Temp\WinSAT: [WinError 5] Acceso denegado: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\WinSAT'
 [2025-08-01 00:31:09] Limpieza finalizada.
 
+[2025-08-01 13:24:29] === Nueva ejecución de limpieza automática ===
+[2025-08-01 13:24:29] Ruta no encontrada: /tmp
+[2025-08-01 13:24:31] Inicio de limpieza: 12 archivos a borrar.
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\108c72b2-6b79-488c-bd50-f799a16d254c.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\108c72b2-6b79-488c-bd50-f799a16d254c.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\1a2ef8b2-fe51-4a71-a56c-669467e8b4ee.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\1a2ef8b2-fe51-4a71-a56c-669467e8b4ee.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\1c43f3c1-9b29-41cf-9bc3-5d18c9448b87.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\1c43f3c1-9b29-41cf-9bc3-5d18c9448b87.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\21a83c24-a1d3-45ac-87fb-bfb9e2e7f97e.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\21a83c24-a1d3-45ac-87fb-bfb9e2e7f97e.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\22eea320-37db-431e-b85e-65b8b2d9dbd1.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\22eea320-37db-431e-b85e-65b8b2d9dbd1.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\427afb46-04c6-4498-967d-ef7a6a0b4395.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\427afb46-04c6-4498-967d-ef7a6a0b4395.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\5f32fccf-7021-4125-8b36-95a9a58780bf.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\5f32fccf-7021-4125-8b36-95a9a58780bf.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\929be795-2f5e-481f-902c-e46ba06a58a9.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\929be795-2f5e-481f-902c-e46ba06a58a9.tmp'
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\f7cf2bda-b9d0-41ff-899e-048e9ef462e5.tmp: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\f7cf2bda-b9d0-41ff-899e-048e9ef462e5.tmp'
+[2025-08-01 13:24:31] Archivo borrado: C:\Users\chapa\AppData\Local\Temp\mat-debug-3148.log | Tamaño: 0.00 MB | Modificado: 2025-07-31
+[2025-08-01 13:24:31] Archivo borrado: C:\Users\chapa\AppData\Local\Temp\StructuredQuery.log | Tamaño: 0.00 MB | Modificado: 2025-08-01
+[2025-08-01 13:24:31] Error borrando C:\Users\chapa\AppData\Local\Temp\iu-14D2N.tmp\_unins.tmp: [WinError 5] Acceso denegado: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\iu-14D2N.tmp\\_unins.tmp'
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_BITS_11124_1006946260
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_BITS_11124_1997221819
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_drag4052_132035944
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_drag4052_1855490804
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_drag4052_255458606
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_drag4052_450356510
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\chrome_drag4052_957635927
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\hsperfdata_chapa
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\scoped_dir10520_1829767678
+[2025-08-01 13:24:31] Carpeta vacía eliminada: C:\Users\chapa\AppData\Local\Temp\vscode-typescript
+[2025-08-01 13:24:31] Error eliminando carpeta C:\Users\chapa\AppData\Local\Temp\WinSAT: [WinError 5] Acceso denegado: 'C:\\Users\\chapa\\AppData\\Local\\Temp\\WinSAT'
+[2025-08-01 13:24:31] Limpieza finalizada.
+
