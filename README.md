@@ -10,11 +10,11 @@ Colección de herramientas personales creadas con Python, diseñadas para automa
 
 Herramientas/
 │
-├── # Scripts .bat para ejecutar desde cualquier terminal
+├── # bin .bat para ejecutar desde cualquier terminal
 │ ├── tool1.bat
 │ ├── tool2.bat
 │
-├── # Scripts Python reales
+├── # Scripts Python 
 │ ├── tool1.py
 │ ├── tool2.py
 │
