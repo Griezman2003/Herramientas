@@ -2,7 +2,9 @@
 setlocal
 echo.
 echo == Instalando dependencias de Python ==
-pip install -r requirements.txt
+
+python -m pip install -r "%~dp0requirements.txt"
+
 IF ERRORLEVEL 1 (
     echo Error al instalar dependencias. Verifica que tengas pip configurado correctamente.
     pause
