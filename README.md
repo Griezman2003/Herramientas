@@ -46,3 +46,21 @@ Herramientas/
 | `limpiar` | Limpia archivos temporales o basura del sistema |
 | `monitor` | Abre un dashboard de tu minitor              |
 | `p`  | Abre un guardado de contraseñas               |
+
+
+## ✅ Comandos disponibles si trabajas desde laravel
+
+| Comando   | Descripción                                |
+|-----------|--------------------------------------------|
+| `a`   | Crea modelos o controladores usando la sintaxis de laravel     |
+| `cache`  | Realiza una limpieza de vistas y cache del proyecto              |
+
+
+## ✅ Comandos disponibles si trabajas con GIT
+
+| Comando   | Descripción                                |
+|-----------|--------------------------------------------|
+| `status`   | Realiza un status de tus cambios en tu proyecto       |
+| `pull`  | Baja los ccambios pendientes en tu repositorio              |
+| `push`  | Sube los ccambios pendientes en tu repositorio              |
+| `pull`  | Baja los ccambios pendientes en tu repositorio              |
