@@ -29,9 +29,13 @@ Herramientas/
    https://github.com/Griezman2003/Herramientas.git
    cd Herramientas
 
-## Ejecuta el instalador
 
-2. setup.bat
+## 🚀 Finalización
+
+2. **Corre el comando**
+   ```bash
+   setup.bat
+
 
 ## ✅ Comandos disponibles desde cualquier parte de tu terminal
 
