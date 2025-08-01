@@ -20,18 +20,16 @@ def format_date(date_iso):
 
 def get_location_by_ip():
     try:
-        response = requests.get("http://ip-api.com/json/", timeout=5)
+        response = requests.get("https://ipapi.co/json", timeout=5)
         data = response.json()
-        if data.get("status") != "success":
-            print(f"⚠️ No se pudo obtener la ubicación: {data.get('message')}")
+        if "latitude" not in data or "longitude" not in data:
+            print("⚠️ No se pudo obtener la ubicación: datos insuficientes.")
             return None
-
         return {
-            "lat": data["lat"],
-            "lon": data["lon"],
-            "city": f"{data['city']}, {data['regionName']}"
+            "lat": data["latitude"],
+            "lon": data["longitude"],
+            "city": f"{data['city']}, {data['region']}, {data['country_name']}"
         }
-
     except Exception as e:
         print("⚠️ Error al obtener ubicación automáticamente:", e)
         return None
