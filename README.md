@@ -73,7 +73,8 @@ Se agrega funcionalidad apaga tu PC automáticamente a una hora específica como
 ## 🛠 Requisitos
 
 - Python 3 (solo si deseas modificar el script original)
-- [`winotify`](https://pypi.org/project/winotify/) (para mostrar notificaciones en Windows)
+- [`winotify`](https://pypi.org/project/winotify/) (para mostrar notificaciones en Windows) (Ya se agrego la dependencia al requeriment.txt
+   solo debe correr el comando setup.bat)
 - PyInstaller (si quieres compilar el `.exe`) (pyinstaller --onefile --noconsole dormir.py)
 - crear tarea para ejecutar el .exe cada que se inicie el sistema 
 
