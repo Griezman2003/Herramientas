@@ -62,3 +62,20 @@ Herramientas/
 | `status`   | Realiza un status de tus cambios en tu proyecto       |
 | `pull`  | Baja los cambios pendientes en tu repositorio              |
 | `push`  | Sube los cambios pendientes en tu repositorio              |
+
+
+# Recordatorio para Dormir 💤
+
+Se agrega funcionalidad apaga tu PC automáticamente a una hora específica como recordatorio para dormir. Muestra una notificación antes de cerrar aplicaciones y apagar el sistema.
+
+---
+
+## 🛠 Requisitos
+
+- Python 3 (solo si deseas modificar el script original)
+- [`winotify`](https://pypi.org/project/winotify/) (para mostrar notificaciones en Windows)
+- PyInstaller (si quieres compilar el `.exe`) (pyinstaller --onefile --noconsole dormir.py)
+- crear tarea para ejecutar el .exe cada que se inicie el sistema 
+
+---
+
