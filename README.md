@@ -80,5 +80,5 @@ Se agrega funcionalidad apaga tu PC automáticamente a una hora específica como
 
 ---
 
-# Identedor de php 
+# Identador de php 
 - La carpeta php contiende un identador de php, en el editor VS code en settings.json se termina de configurar
