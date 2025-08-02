@@ -42,7 +42,7 @@ Herramientas/
 | Comando   | Descripción                                |
 |-----------|--------------------------------------------|
 | `clima`   | Muestra el clima actual en tu ciudad       |
-| `musica`  | Abre el reproductor de música y descarga              |
+| `musica`  | Abre el reproductor de música y descarga tener PATH de yt-dlp             |
 | `limpiar` | Limpia archivos temporales o basura del sistema |
 | `p`  | Abre un guardado de contraseñas               |
 
