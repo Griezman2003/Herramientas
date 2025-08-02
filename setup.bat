@@ -24,4 +24,3 @@ powershell -Command "$userPath = [Environment]::GetEnvironmentVariable('PATH', '
 echo.
 echo ✅ Instalación completada. Abre una nueva terminal para usar tus herramientas.
 endlocal
-pause
