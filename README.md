@@ -64,7 +64,7 @@ Herramientas/
 | `push`  | Sube los cambios pendientes en tu repositorio              |
 
 
-# Recordatorio para Dormir 💤
+# 💤 Recordatorio para Dormir
 
 Se agrega funcionalidad apaga tu PC automáticamente a una hora específica como recordatorio para dormir. Muestra una notificación antes de cerrar aplicaciones y apagar el sistema.
 
@@ -80,7 +80,7 @@ Se agrega funcionalidad apaga tu PC automáticamente a una hora específica como
 
 ---
 
-# Identador de php 
+## 📌 Identador de php 
 - La carpeta php contiende un identador de php, En el editor VS code en settings.json se termina de configurar
 - Ctrl + Shift + p
 - Abrir configuracion de usuario JSON
