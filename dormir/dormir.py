@@ -22,14 +22,14 @@ def mostrar_notificacion():
         app_id="Recordatorio de Sueño",
         title="Recordatorio de sueño 😴",
         msg="Tu PC se apagará en 1 minuto.",
-        duration="short"
+        duration="long"
     )
     toast.show()
 
 def recordar_dormir():
     while True:
         hora_actual = time.strftime("%H:%M")
-        if hora_actual == "23:07":
+        if hora_actual == "22:30":
             mostrar_notificacion()
             print("¡Es hora de dormir 😴! Tu PC se apagará en 1 minuto.")
             time.sleep(60)
