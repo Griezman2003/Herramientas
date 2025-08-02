@@ -81,4 +81,13 @@ Se agrega funcionalidad apaga tu PC automáticamente a una hora específica como
 ---
 
 # Identador de php 
-- La carpeta php contiende un identador de php, en el editor VS code en settings.json se termina de configurar
+- La carpeta php contiende un identador de php, En el editor VS code en settings.json se termina de configurar
+- Ctrl + Shift + p
+- Abrir configuracion de usuario JSON
+- "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer", //instalar extencion
+        "editor.formatOnSave": true
+    },
+   "php-cs-fixer.onsave": true,
+   "php-cs-fixer.executablePath": "C:\\Users\\Usuario\\Carpeta\\Herramientas\\php\\php-cs-fixer.phar",
+   "php-cs-fixer.rules": "@PSR12",
